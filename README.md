@@ -24,33 +24,25 @@ and turning complex ideas into practical software solutions.
 
 ### 🚀 Featured Projects
 
-#### 📦 TitanKV — Distributed Key-Value Storage System
-**Java | Multi-Raft | RocksDB | MVCC**
+#### 📦 [DistributedKV](https://github.com/candice069/DistributedKV-Portfolio) — Java Distributed Key-Value Store
+**Java | Raft | RocksDB | MVCC | Netty**
 
-- Built a distributed key-value storage system using Multi-Raft
-  for consensus and fault tolerance.
-- Implemented dynamic sharding with consistent hashing
-  and virtual nodes.
-- Optimized storage with RocksDB, MVCC, and asynchronous
-  batch processing.
+- Explores replicated key-value storage with Raft groups, consistent hashing, and configurable storage engines.
+- Includes source for MVCC, distributed read paths, and unit/integration tests.
+- Work in progress; see the repository README for build and validation limitations.
 
-#### 🍔 Food Ordering System
-**Java | Spring Boot | React | MySQL | JWT**
+#### ⚡ [Real-Time Text Classification](https://github.com/candice069/Real-Time-Text-Classification)
+**Python | TensorFlow | BERT | Kafka | Redis | FastAPI | Docker**
 
-- Developed a full-stack food ordering application
-  with RESTful APIs.
-- Implemented JWT-based authentication and
-  database-backed order management.
-- Optimized MySQL queries and indexing to improve
-  response times.
+- Combines a BERT classifier, prediction APIs, Redis caching, and Kafka producer/consumer components.
+- Includes Docker, Kubernetes, Prometheus, and Grafana configuration.
+- Portfolio prototype; model quality and end-to-end performance require validation.
 
-#### 🤖 LLMarking — LLM-Based Automated Grading System
-**Python | FastAPI | vLLM | GPT-4 | Llama 3**
+#### 🤖 [LLMarking](https://github.com/2024-Surf-LLMarking/LLMarking) — LLM-Based Automated Grading
+**Python | FastAPI | vLLM | LLM Evaluation**
 
-- Developed an automated grading system powered by LLMs.
-- Built scalable inference APIs using FastAPI and vLLM.
-- Evaluated grading performance on 1,100+ samples.
-- Published research in ACM proceedings.
+- Team research project exploring LLM-based automated grading.
+- Links to the original team repository, preserving project attribution and contribution history.
 
 ### 💼 Experience
 
